@@ -12,7 +12,7 @@ To get started with Gym Trainer, follow these steps:
 
 **Clone the repository:**
 
-git clone https://github.com/your-username/gym-trainer.git
+git clone https://github.com/RaVIGARGW/gym-trainer.git
 cd GymTrainer
 
 Install the Gaia Node by running the following command:
